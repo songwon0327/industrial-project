@@ -1,0 +1,35 @@
+[33mcommit 067802d2bf8c7bdf4ff3efcd94f57fd51bb2a09b[m[33m ([m[1;36mHEAD -> [m[1;32mchange_ESPcode[m[33m)[m
+Author: DaHyun0110 <erica0359@naver.com>
+Date:   Sat Dec 10 08:24:22 2022 +0900
+
+    revised ESP32 Module
+
+[33mcommit 871acb6dc3258e87211558544b64d273e2cf5ce1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: DaHyun0110 <erica0359@naver.com>
+Date:   Sat Dec 10 08:16:38 2022 +0900
+
+    Add ESP32.ino
+
+[33mcommit 6691792fd345b7846b09d44684d1ad28a3c9eade[m
+Author: DaHyun0110 <erica0359@naver.com>
+Date:   Sat Dec 10 08:08:18 2022 +0900
+
+    Add apk [Bluetooth.apk]
+
+[33mcommit c231db4e45110a4fc12037b055d894e3d0c392cc[m
+Author: LBKME <90976911+LBKME@users.noreply.github.com>
+Date:   Mon Dec 5 15:05:17 2022 +0900
+
+    readme 초안
+    
+    차후에 좀더 수정할 생각입니다.
+    
+    Signed-off-by: LBKME <90976911+LBKME@users.noreply.github.com>
+
+[33mcommit 30b5371ae6549be5046c588301550f9128613571[m
+Author: songwon Lee <65889472+songwon0327@users.noreply.github.com>
+Date:   Fri Nov 25 16:12:28 2022 +0900
+
+    load cell 무게 측정 코드
+    
+    Signed-off-by: songwon Lee <65889472+songwon0327@users.noreply.github.com>
