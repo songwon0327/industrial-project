@@ -1,4 +1,7 @@
-# 해보조
+
+## 해보조
+<p align ="center"><img width="500" src="https://user-images.githubusercontent.com/90976911/206831014-57cb3a1d-2716-4e10-90ca-eebcbcd0a4e7.png"></p>
+
 - 산학프로젝트 해보조팀
 - 2022.9.10 ~ 2022.12.12
 - 스마트점자 보도 블럭! : 기존의 점자 보도블럭의 점자 훼손에 대응하는 보도블럭
