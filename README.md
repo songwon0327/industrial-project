@@ -24,10 +24,11 @@
 ## 하드웨어 사용 방법
  올라가서 무게가 측정되면 ESP32의 신호에 파란불이면 음성신호가 나오지 않고 빨간불이면 음성신호가 나온다.
  
- ## 시연
-
+ ## 완성본
+<p align="center"><img width="400" src="https://user-images.githubusercontent.com/90976911/206831277-45c1717e-b928-4a41-991a-500b00f05355.jpeg"></p>
  
- 
+ ## 실행모습
+ <p align="center"><img src="https://user-images.githubusercontent.com/90976911/206831628-3110bbee-db12-41c1-a58d-e922616ad3c1.png"></p>
  
  ## 핵심기능
  - 점자블록의 점자 훼손에도 대응이 가능한 보도블럭
