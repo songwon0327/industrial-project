@@ -1,10 +1,10 @@
 # 해보조
-<img width="874" alt="스크린샷 2022-12-10 오후 2 07 05" src="https://user-images.githubusercontent.com/90976911/206830302-3c4b7fba-db01-44f9-90e3-0a1a851a4ec5.png">
-
 - 산학프로젝트 해보조팀
 - 2022.9.10 ~ 2022.12.12
 - 스마트점자 보도 블럭! : 기존의 점자 보도블럭의 점자 훼손에 대응하는 보도블럭
 - 밟으면 무게를 측정해 주변 신호 환경에 맞추어 신호를 울려주는 아두이노 기반 보도블럭
+
+<p align="center"><img width="700" alt="스크린샷 2022-12-10 오후 2 07 05" src="https://user-images.githubusercontent.com/90976911/206830302-3c4b7fba-db01-44f9-90e3-0a1a851a4ec5.png"></p>
 
 ## 준비사항
 - 아두이노 우노(Arduino Uno)
